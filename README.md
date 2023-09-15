@@ -1,3 +1,3 @@
 # CryptoPals
 
-Here's a set of solutions for cryptopals challenges!
+Here's my solutions for cryptopals challenges!
